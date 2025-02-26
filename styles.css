@@ -1,0 +1,12 @@
+.form-one {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+
+.form-two {
+    display: none;
+    flex-direction: column;
+    gap: 15px;
+}
