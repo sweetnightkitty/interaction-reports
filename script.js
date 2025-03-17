@@ -89,7 +89,6 @@ const toggleScreens = ()=> {
 
 const toggle = toggleScreens();
 
-
 const formOneBtn = document.querySelector(".form-one-btn");
 
 formOneBtn.addEventListener("click", ()=> {
